@@ -1,6 +1,6 @@
 # Espaço DEV da Roberta👩🏼‍💻
 
-- 💻Desenvolvedor Front end
+- 💻Analista e Desenvolvedora de Sitemas
 - ✨ Ux/Ui Designer
 - 🌴Guarapari - ES
 
