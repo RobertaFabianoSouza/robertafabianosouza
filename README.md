@@ -1,4 +1,4 @@
-# Olá, Me chamo Roberta e esse é meu espaço DEV 👩🏼‍💻
+# 👩🏼‍💻Olá, Me chamo Roberta e esse é meu espaço DEV! 
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertafabianosouza&show_icons=true&theme=dracula)
