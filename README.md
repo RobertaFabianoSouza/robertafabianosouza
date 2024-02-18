@@ -1,8 +1,5 @@
 #  DEV Roberta👩🏼‍💻
 
-- 💻Analista e Desenvolvedora de Sitemas
-- ✨ Ux/Ui Designer
-- 🌴Guarapari - ES
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertafabianosouza&show_icons=true&theme=dracula)
