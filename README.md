@@ -1,7 +1,6 @@
 # Olá, Me chamo Roberta e esse é meu espaço DEV! 
 💻 Analista e Desenvolvedora de Sistemas | Engenheira Front-end
 
-#
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertafabianosouza&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertafabianosouza&layout=compact&theme=dracula)
 
