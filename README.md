@@ -5,6 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertafabianosouza&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertafabianosouza&layout=compact&theme=dracula)
 
+ <h1>Linguagens & Tecnologias</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -15,7 +16,7 @@
 </div>
   
   ##
- <h1>Linguagens & Tecnologias</h1>
+ <h1>Redes Sociais</h1>
 <div> 
   <a href="https://www.instagram.com/robertafsouzas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://wa.me/5527996349032" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
